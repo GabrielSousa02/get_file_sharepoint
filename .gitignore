@@ -1,0 +1,15 @@
+# IDEs
+.idea
+.vscode
+
+# Cache folder
+__pycache__
+
+# Environment files
+.venv
+venv
+
+# Config files
+*.json
+*.ini
+!sample_shpt_param.json

@@ -1,0 +1,10 @@
+{
+    "sharepoint":
+        {
+            "user": "{USERNAME}",
+            "password": "{PASSWORD}",
+            "url": "https://{YOUR_DOMAIN}.sharepoint.com",
+            "site": "https://{YOUR_DOMAIN}.sharepoint.com/sites/{YOUR_SITE}/",
+            "doc_library": "Shared Documents/path/to/your/file.ext"
+        }
+}
