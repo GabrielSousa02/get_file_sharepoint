@@ -34,7 +34,7 @@ All required libraries can be installed using pip, through the following command
 
 ---
 ## Usage:
-###This script takes up to two arguments:
+### This script takes up to two arguments:
 1. `--param_file` or `-pf`<br>
 Enter Sharepoint parameters JSON file name. It defaults to **'shpt_param.json'**
    
